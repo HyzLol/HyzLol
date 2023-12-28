@@ -1,31 +1,3 @@
-ProfileMe.dev
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2023 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-kofi
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Hyz
 ====================
 
@@ -44,5 +16,3 @@ Hi 👋 My name is Hyz
 ### Badges
 
 <a href="https://github.com/HyzLol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyzLol&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
